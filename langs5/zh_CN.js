@@ -272,7 +272,7 @@ tinymce.addI18n('zh_CN',{
 "Error": "\u9519\u8bef",
 "Warn": "\u8b66\u544a",
 "Valid": "\u6709\u6548",
-"To open the popup, press Shift+Enter": "\u6309Shitf+Enter\u952e\u6253\u5f00\u5bf9\u8bdd\u6846",
+"To open the popup, press Shift+Enter": "\u6309Shift+Enter\u952e\u6253\u5f00\u5bf9\u8bdd\u6846",
 "Rich Text Area. Press ALT-0 for help.": "\u7f16\u8f91\u533a\u3002\u6309Alt+0\u952e\u6253\u5f00\u5e2e\u52a9\u3002",
 "System Font": "\u7cfb\u7edf\u5b57\u4f53",
 "Failed to upload image: {0}": "\u56fe\u7247\u4e0a\u4f20\u5931\u8d25: {0}",

@@ -10,7 +10,7 @@ Languages for TinyMCE 4 and 5
 
 https://www.tiny.cloud/get-tiny/language-packages/
 
-## Instalation
+## Installation
 
 Via npm
 
